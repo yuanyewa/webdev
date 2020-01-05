@@ -1,0 +1,11 @@
+https://www.appbrewery.co/p/web-development-course-resources/
+
+https://codepen.io
+devdocs.io
+w3school
+html mdn
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+
+New line: <br>
+https://unicode-table.com/en/
